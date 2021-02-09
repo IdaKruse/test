@@ -1,0 +1,23 @@
+/*body
+    {background:#CEEFF5;}
+h1 
+    {color:burlywood}
+h1
+    {font-family: 'Fraunces', serif;}
+p.utprøving{color:cadetblue}
+#idutprøving{color:darkseagreen}
+h2
+    {text-decoration: underline;}/*
+*/{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: "Fraunces"
+}
+.menu li a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    
+}
